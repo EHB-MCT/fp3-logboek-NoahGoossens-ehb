@@ -1,6 +1,6 @@
 # Logboek
 
-**Datum:** `[13/01/2026]`  
+**Datum:** `[15/01/2026]`  
 **Studentnaam:** `[Noah Goossens]`  
 **Groepsnaam:** `[Team Rocket]`
 
@@ -8,15 +8,17 @@
 
 ## 1) Wat heb ik vandaag gedaan voor mijn project?
 
-- Afgewerkt moodboard en alles voor opdarcht van vandaag. Verder nagedacht over de features en kiezen welk design we zouden willen nemen.
+- Cas meegeholpen met de wireframe.
 
-- Scrum meeting gehad in de morgen.
+- Eind design gemaakt met de groep (meegeholpen)
+
+- lokaal begonnen voor de website.
 
 ---
 
 ## 2) Wat heb ik nieuw geleerd of voor het eerst zelf gedaan?
 
-- Dat je veel meer an elkaars design's kan bijleren om u project bij te vullen.
+- Camera prototype met de ai van elouan.
 
 ## 3) Wat is mijn gevoel over vandaag?
 
