@@ -8,17 +8,19 @@
 
 ## 1) Wat heb ik vandaag gedaan voor mijn project?
 
-- presentatie gegeven voor de klant (ik heb de sprint review gemaakt)
+- plugins zoeken voor project
 
-- Verder nagedacht met de feedback van de klant
+- zoektocht voor heatmap + local test
 
-- Begonnen aan een nieux design "ik"
+- helpen nieuwe design
+
+- begin layout html
 
 ---
 
 ## 2) Wat heb ik nieuw geleerd of voor het eerst zelf gedaan?
 
-- De feedback van de klant en de leerkrachten
+- js plugins
 
 ## 3) Wat is mijn gevoel over vandaag?
 
