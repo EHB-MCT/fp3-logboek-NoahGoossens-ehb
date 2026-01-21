@@ -1,6 +1,6 @@
 # Logboek
 
-**Datum:** `[20/01/2026]`  
+**Datum:** `[21/01/2026]`  
 **Studentnaam:** `[Noah Goossens]`  
 **Groepsnaam:** `[Team Rocket]`
 
@@ -8,19 +8,17 @@
 
 ## 1) Wat heb ik vandaag gedaan voor mijn project?
 
-- structuur files verder gewerkt
+- home page aangemaakt. Wachten op eind design om te beginnen
 
-- front end develop
+- back end af met Elouan
 
-- base set voor home
-
-- help elouan voor database setup
+- Wireframe geholpen
 
 ---
 
 ## 2) Wat heb ik nieuw geleerd of voor het eerst zelf gedaan?
 
-- nieuw design geleerd
+- websites om met blokken te werken met css en html om eerst te visualiseren
 
 ## 3) Wat is mijn gevoel over vandaag?
 
