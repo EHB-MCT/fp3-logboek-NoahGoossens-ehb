@@ -1,6 +1,6 @@
 # Logboek
 
-**Datum:** `[21/01/2026]`  
+**Datum:** `[22/01/2026]`  
 **Studentnaam:** `[Noah Goossens]`  
 **Groepsnaam:** `[Team Rocket]`
 
@@ -8,21 +8,25 @@
 
 ## 1) Wat heb ik vandaag gedaan voor mijn project?
 
-- home page aangemaakt. Wachten op eind design om te beginnen
+- Layout frond aangepast
 
-- back end af met Elouan
+- css toegevoegd einddesign front
 
-- Wireframe geholpen
+- paginas milestones en profiel
+
+- hulp bij figma wireframe linking
+
+- presentatie powerpoint geholpen vrije tijd
 
 ---
 
 ## 2) Wat heb ik nieuw geleerd of voor het eerst zelf gedaan?
 
-- websites om met blokken te werken met css en html om eerst te visualiseren
+- betere css layout en files voor verdere betere structuur
 
 ## 3) Wat is mijn gevoel over vandaag?
 
-- Normaal, we hebben alles gedaan dat we moesten doen.
+- Normaal, gemotiveerd voor morgen de presentatie.
 
 > **Algmeeen gevoel:**
 >
